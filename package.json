@@ -1,0 +1,27 @@
+{
+  "name": "slickdown",
+  "version": "0.1.0",
+  "description": "Markdown renderer for the Command Line Interface ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KilianKilmister/slickdown.git"
+  },
+  "keywords": [
+    "CLI",
+    "Markdown",
+    "command",
+    "renderer",
+    "common-mark",
+    "utility"
+  ],
+  "author": "Slick Kilmister <Kilian@catsoft.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KilianKilmister/slickdown/issues"
+  },
+  "homepage": "https://github.com/KilianKilmister/slickdown#readme"
+}

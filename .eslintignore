@@ -1,0 +1,6 @@
+
+# NOTE: FILL ME
+# eslint ignores hidden files by default
+!.*
+node_modules
+package-lock.json
